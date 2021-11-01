@@ -7,7 +7,9 @@
 - 🔭 I’m currently working on ...Full Stack Development
 - 🌱 I’m currently learning ...Mern Stack
 - 👯 I’m looking to collaborate on ...Artificial Intelligence
-- 📫 How to reach me: ...<a href="#"><i class="fab fa-linkedin"></i></a>
+- 📫 How to reach me: ...<a href="#"><i class="fab fa-linkedin"></i></a>kmayur809@gmail.com
+- ⚡ Fun fact: ...
+
 <img align="Left" width="47%" src="https://github-readme-stats.vercel.app/api?username=medemayur-maker&show_icons=true&theme=radical"/>
 <img align="Right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medemayur-maker&layout=compact"/>
 
@@ -29,6 +31,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - - 😄 Pronouns: ...-->
-- ⚡ Fun fact: ...
 
 
