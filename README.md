@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on ...Full Stack Development
 - 🌱 I’m currently learning ...Mern Stack
 - 👯 I’m looking to collaborate on ...Artificial Intelligence
-- 📫 How to reach me: ...(kmayur809@gmail.com)
+- 📫 How to reach me: ...[!Mail_id](kmayur809@gmail.com)
 - ⚡ Fun fact: ...
 
 <img align="Left" width="47%" src="https://github-readme-stats.vercel.app/api?username=medemayur-maker&show_icons=true&theme=radical"/>
