@@ -11,7 +11,7 @@
 
 
 <img align="Left" width="47%" src="https://github-readme-stats.vercel.app/api?username=strong10mede&show_icons=true&theme=radical"/>
-<img align="Right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medemayur-maker&layout=compact"/>
+<img align="Right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strong10mede&layout=compact"/>
 
 <br />
  
