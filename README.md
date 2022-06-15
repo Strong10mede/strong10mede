@@ -9,9 +9,9 @@
 - 👯 I’m looking to collaborate on ...Artificial Intelligence
 - 📫 How to reach me: ...[Mail_Id](kmayur809@gmail.com)
 
-<div style="display:flex; justify-content: space-between;">
-<img align="Left" width="47%" src="https://github-readme-stats.vercel.app/api?username=strong10mede&show_icons=true&theme=radical"/>
-<img align="Right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strong10mede&layout=compact"/>
+<div style="display:flex; justify-content: space-between; align-items:center">
+<img align="Left" src="https://github-readme-stats.vercel.app/api?username=strong10mede&show_icons=true&theme=radical"/>
+<img align="Right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strong10mede&layout=compact"/>
 </div>
 <br />
  
