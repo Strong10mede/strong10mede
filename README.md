@@ -1,3 +1,4 @@
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/56781844/173817836-3404fe87-31f1-40d6-87a6-d25f9e9933ec.gif)
 ![Header video](https://user-images.githubusercontent.com/56781844/173815417-91504571-fae9-4a30-8198-17450fd5e762.mp4)
 
 <!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
