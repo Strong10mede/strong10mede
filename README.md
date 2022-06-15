@@ -9,10 +9,10 @@
 - 👯 I’m looking to collaborate on ...Artificial Intelligence
 - 📫 How to reach me: ...[Mail_Id](kmayur809@gmail.com)
 
-
+<div style="display:flex; justify-content: space-between;">
 <img align="Left" width="47%" src="https://github-readme-stats.vercel.app/api?username=strong10mede&show_icons=true&theme=radical"/>
 <img align="Right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strong10mede&layout=compact"/>
-
+</div>
 <br />
  
 <a href="https://www.linkedin.com/in/mayur-kumar-47a9511a1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayur-kumar-47a9511a1" height="30" width="40" /></a>
