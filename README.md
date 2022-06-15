@@ -11,8 +11,7 @@
 
 <div style="display:flex; justify-content: space-between; align-items:center">
 <img align="Left" src="https://github-readme-stats.vercel.app/api?username=strong10mede&show_icons=true&theme=radical"/>
-<img align="Right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strong10mede&layout=compact"/>
-</div>
+<img align="Right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strong10mede&layout=compact"/></div>
 <br />
  
 <a href="https://www.linkedin.com/in/mayur-kumar-47a9511a1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayur-kumar-47a9511a1" height="30" width="40" /></a>
