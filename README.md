@@ -18,3 +18,14 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
 - Artificial Intelligence
 - MERN
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+
+</a>
+
+<a href="https://github.com/anuraghazra/convoychat">
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+
+</a>
