@@ -18,7 +18,7 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
 - Artificial Intelligence
 - MERN
 
-
+![Mayur's GitHub stats](https://github-readme-stats.vercel.app/api?username=strong10_mede&show_icons=true&theme=midnight-purple)
 
   
 
