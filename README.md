@@ -19,6 +19,7 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
 - MERN
 
 <br/>
+
 ![Mayur's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=strong10mede&show_icons=true&theme=midnight-purple)
 
 [![Mayur's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=strong10mede)](https://github.com/anuraghazra/github-readme-stats)
