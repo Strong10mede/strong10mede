@@ -4,7 +4,7 @@
 I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.
 
 
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'><br />
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-MayurKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayur-kumar-47a9511a1)](https://www.linkedin.com/in/mayur-kumar-47a9511a1/)
