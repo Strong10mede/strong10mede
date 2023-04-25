@@ -8,7 +8,7 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-MayurKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayur-kumar-47a9511a1)](https://www.linkedin.com/in/mayur-kumar-47a9511a1/)
-[![Instagram Badge](https://img.shields.io/badge/-medeMayur-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mede_mayur/)](https://www.instagram.com/mede_mayur/)
+[![Instagram Badge](https://img.shields.io/badge/-Strong10mede-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mede_mayur/)](https://www.instagram.com/Strong10mede/)
 [![Website Badge](https://img.shields.io/badge/-mede.co.in-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://strong10mede.github.io/Reponsive_Portfolio/)](https://strong10mede.github.io/Reponsive_Portfolio/)
 [![Gmail Badge](https://img.shields.io/badge/-kmayur809@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kmayur809@gmail.com)](mailto:kmayur809@gmail.com)
 ## ⚡ Domains:
