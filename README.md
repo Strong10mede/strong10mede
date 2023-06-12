@@ -20,5 +20,5 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
 
 <br/>
 
-| <a href="https://github.com/strong10mede/github-readme-stats">![Mayur's GitHub stats](https://github-readme-stats.vercel.app/api?username=strong10mede&show_icons=true&theme=radical)</a> | <a href="https://github.com/strong10mede/github-readme-stats">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strong10mede)](https://github.com/anuraghazra/github-readme-stats)</a> |
+| <a href="https://github.com/strong10mede/github-readme-stats">![Mayur's GitHub stats](https://github-readme-stats.vercel.app/api?username=strong10mede&show_icons=true&theme=radical)</a> | <a href="https://github.com/strong10mede/github-readme-stats">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strong10mede&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)</a> |
 | ------------- | ------------- |
