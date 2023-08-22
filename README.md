@@ -17,6 +17,7 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
 - Web Development
 - Artificial Intelligence
 - MERN
+- Competitive Programming
 
 <br/>
 
